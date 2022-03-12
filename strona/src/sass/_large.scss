@@ -1,0 +1,16 @@
+@media (min-width: 992px) {
+	.burger-btn {
+		display: none;
+	}
+
+	.nav {
+		&-desktop {
+			display: block;
+		}
+	}
+
+}
+
+@media(min-width: 1200px) {
+	
+}
